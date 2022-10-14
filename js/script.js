@@ -22,7 +22,7 @@ const gener =  "female";
 
 // Type Boolean
 var isMarried = true;
-console.log(`She has boyfriend: ${isMarried}`);
+
 // Type Array
 var hobbies = ["sing", "run", "draw", "go out"];
 
