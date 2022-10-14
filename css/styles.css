@@ -1,0 +1,10 @@
+body {
+    background-image: url(../assets/una-taza-de-javascript.png);
+    background-size:cover;
+}
+h1 {
+    color: rgb(240, 221, 185);
+    text-align: center;
+    font-size: 55px;
+    font-family: Arial Black;
+}
